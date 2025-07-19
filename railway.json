@@ -1,0 +1,11 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "nixpacksPlan": {
+      "providers": [
+        "node"
+      ]
+    }
+  },
+  "start": "node index.js"
+}
